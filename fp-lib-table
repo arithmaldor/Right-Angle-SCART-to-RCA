@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name SCART-RIGHT-ANGLE)(type KiCad)(uri "$(KIPRJMOD)/SCART-RIGHT-ANGLE.pretty")(options "")(descr ""))
+  (lib (name "New Footprints")(type KiCad)(uri "C:/Users/raque/Documents/GitHub/SCART-to-RCA/New Footprints.pretty")(options "")(descr ""))
+  (lib (name Jumper)(type KiCad)(uri C:/Users/raque/Documents/GitHub/RCA-to-SCART/Jumper.pretty)(options "")(descr ""))
+  (lib (name SPDT)(type KiCad)(uri "$(KIPRJMOD)/SPDT.pretty")(options "")(descr ""))
+)
